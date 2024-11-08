@@ -4,7 +4,7 @@ title: "Bienvenido a Lagrange de Edgar"
 author: "Edgar Diaz"
 categories: journal
 tags: [documentation,sample]
-image: mountains.jpg
+image: paisaje.jpg
 ---
 
 

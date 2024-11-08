@@ -23,8 +23,9 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 title:		           'Lagrange'
 description:	       'a minimalist Jekyll theme'
 author:              'Paul Le'
-baseurl: "/Lagrange" 
-url: "https://edgar5422.github.io"
+
+#baseurl: "/Lagrange" 
+#url: "https://edgar5422.github.io"
 
 
 # github_username:  Edgar5422
